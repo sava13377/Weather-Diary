@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2026-04-30",
+        "temperature": 35.0,
+        "description": "Очень жарко",
+        "precipitation": false
+    },
+    {
+        "date": "2026-04-28",
+        "temperature": 12.0,
+        "description": "прохладно",
+        "precipitation": false
+    }
+]
